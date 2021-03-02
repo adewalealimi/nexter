@@ -1,4 +1,4 @@
-# Advanced CSS and Sass Grid, Animation and More!.
+# Advanced CSS and Sass Grid, Animation and More!
 
 >Nexter Project
 
